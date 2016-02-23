@@ -3,6 +3,7 @@ CPE/CPE_2015_Allum1 | git@git.epitech.eu:/huot_b/CPE_2015_Allum1
 CPE/CPE_2015_allum1_bootstrap | git@git.epitech.eu:/huot_b/CPE_2015_allum1_bootstrap
 CPE/CPE_2015_BSQ | git@git.epitech.eu:/huot_b/CPE_2015_BSQ
 CPE/CPE_2015_BSQ_bootstrap | git@git.epitech.eu:/huot_b/CPE_2015_BSQ_bootstrap
+CPE/CPE_2015_corewar | git@git.epitech.eu:/grange_c/CPE_2015_corewar
 CPE/CPE_2015_getnextline | git@git.epitech.eu:/huot_b/CPE_2015_getnextline
 CPE/CPE_2015_Pushswap | git@git.epitech.eu:/huot_b/CPE_2015_Pushswap
 CPE/Rush1 | git@git.epitech.eu:/bartho_a/Rush1
@@ -48,6 +49,7 @@ PSU/PSU_2015_my_popup | git@git.epitech.eu:/huot_b/PSU_2015_my_popup
 PSU/PSU_2015_my_printf | git@git.epitech.eu:/huot_b/PSU_2015_my_printf
 PSU/PSU_2015_my_printf_bootstrap | git@git.epitech.eu:/huot_b/PSU_2015_my_printf_bootstrap
 PSU/PSU_2015_my_select | git@git.epitech.eu:/huot_b/PSU_2015_my_select
+PSU/PSU_2015_tetris | git@git.epitech.eu:/bazin_q/PSU82015_tetris
 
 # PISCINE
 Piscine/Evalexpr | git@git.epitech.eu:/huot_b/Evalexpr
