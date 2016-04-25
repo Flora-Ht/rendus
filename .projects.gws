@@ -4,9 +4,9 @@ CPE/CPE_2015_allum1_bootstrap | git@git.epitech.eu:/huot_b/CPE_2015_allum1_boots
 CPE/CPE_2015_BSQ | git@git.epitech.eu:/huot_b/CPE_2015_BSQ
 CPE/CPE_2015_BSQ_bootstrap | git@git.epitech.eu:/huot_b/CPE_2015_BSQ_bootstrap
 CPE/CPE_2015_corewar | git@git.epitech.eu:/grange_c/CPE_2015_corewar
-CPE/dante | git@git.epitech.eu/huot_b/dante
 CPE/CPE_2015_getnextline | git@git.epitech.eu:/huot_b/CPE_2015_getnextline
 CPE/CPE_2015_Pushswap | git@git.epitech.eu:/huot_b/CPE_2015_Pushswap
+CPE/dante | git@git.epitech.eu/huot_b/dante
 CPE/Rush1 | git@git.epitech.eu:/bartho_a/Rush1
 CPE/sudoki-bi | git@git.epitech.eu:/bazin_q/sudoki-bi
 
@@ -16,6 +16,7 @@ EE/B1Mailpro | git@git.epitech.eu:/huot_b/B1Mailpro
 EE/B1Rush | git@git.epitech.eu:/huot_b/B1Rush
 EE/B2EMPLOI | git@git.epitech.eu:/huot_b/B2EMPLOI
 EE/B2PRECISER | git@git.epitech.eu:/huot_b/B2PRECISER
+EE/B2VENTE | git@git.epitech.eu:/huot_b/B2VENTE
 EE/Conte2016 | git@git.epitech.eu:/huot_b/Conte2016
 
 # INFOGRAPHIE
@@ -41,6 +42,8 @@ Infographie/iconofsin_2020 | git@git.epitech.eu:/huot_b/iconofsin_2020
 Infographie/lightning_2020 | git@git.epitech.eu:/huot_b/lightning_2020
 Infographie/mylib_lapin | git@git.epitech.eu:/huot_b/mylib_lapin
 Infographie/mystic_2020 | git@git.epitech.eu:/huot_b/mystic_2020
+Infographie/mystify_2020 | git@git.epitech.eu:/huot_b/mystify_2020
+Infographie/nocss_2020 | git@git.epitech.eu:/huot_b/nocss_2020
 Infographie/starfield_2020 | git@git.epitech.eu:/huot_b/starfield_2020
 Infographie/stretcher_2020 | git@git.epitech.eu:/huot_b/stretcher_2020
 Infographie/text_foot_2020 | git@git.epitech.eu:/huot_b/text_foot_2020
@@ -48,6 +51,7 @@ Infographie/whirlpool_2020 | git@git.epitech.eu:/huot_b/whirlpool_2020
 Infographie/xorshape_2020 | git@git.epitech.eu:/huot_b/xorshape_2020
 
 # PROGRAMMATION SYSTEME UNIX
+PSU/PSU_2015_42sh | git@git.epitech.eu:/koehle_j/PSU_2015_42sh
 PSU/PSU_2015_bstetris | git@git.epitech.eu:/huot_b/PSU_2015_bstetris
 PSU/PSU_2015_minishell1 | git@git.epitech.eu:/huot_b/PSU_2015_minishell1
 PSU/PSU_2015_minishell2 | git@git.epitech.eu:/huot_b/PSU_2015_minishell2
