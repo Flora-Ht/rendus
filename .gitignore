@@ -2,6 +2,7 @@
 *
 
 # But not these files
-!.projects.gws
+!Tek1/.projects.gws
+!Tek2/.projects.gws
 !.gitignore
 !current
