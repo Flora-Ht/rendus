@@ -22,6 +22,17 @@ Rush/cpp_gkrellm | git@@git.epitech.eu:/grange_c/cpp_gkrellm
 
 # PSU - C
 PSU/PSU_2016_malloc | git@git.epitech.eu:/huot_b/PSU_2016_malloc
+PSU/PSU_2016_nmobjdump | git@git.epitech.eu:/huot_b/PSU_2016_nmobjdump
+PSU/PSU_2016_philo | git@git.epitech.eu:/guitta_l/PSU_2016_philo
+PSU/PSU_2016_lemipc | git@git.epitech.eu:/huot_b/PSU_2016_lemipc
 
 # CPP
 CPP/cpp_nanotekspice | git@git.epitech.eu:/huot_b/cpp_nanotekspice
+
+# EE
+EE/B4RECADRER | git@git.epitech.eu:/huot_b/B4RECADRER
+EE/B4DIAPO | git@git.epitech.eu:/huot_b/B4DIAPO
+EE/B4BILAN | git@git.epitech.eu:/huot_b/B4BILAN
+
+# OCAML
+OCAML/OCAML_2016_mylist | git@git.epitech.eu:/huot_b/OCAML_2016_mylist
