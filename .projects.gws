@@ -27,6 +27,7 @@ PSU/PSU_2016_philo | git@git.epitech.eu:/guitta_l/PSU_2016_philo
 PSU/PSU_2016_lemipc | git@git.epitech.eu:/huot_b/PSU_2016_lemipc
 PSU/PSU_2016_strace | git@git.epitech.eu:/huot_b/PSU_2016_strace
 PSU/PSU_2016_ftrace | git@git.epitech.eu:/huot_b/PSU_2016_ftrace
+PSU/PSU_2016_myftp | git@git.epitech.eu:/huot_b/PSU_2016_myftp
 
 # CPP
 CPP/cpp_nanotekspice | git@git.epitech.eu:/huot_b/cpp_nanotekspice
@@ -41,3 +42,4 @@ EE/B4BILAN | git@git.epitech.eu:/huot_b/B4BILAN
 # OCAML
 OCAML/OCAML_2016_mylist | git@git.epitech.eu:/huot_b/OCAML_2016_mylist
 OCAML/OCAML_2016_agenda | git@git.epitech.eu:/bonett_w/OCAML_2016_agenda
+OCAML/OCAML_2016_trainmanager | git@git.epitech.eu:/bonett_w/OCAML_2016_trainmanager
